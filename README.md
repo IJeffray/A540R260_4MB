@@ -1,6 +1,6 @@
 # Acorn A540/R260 4MB RAM card
 
-March 2023
+May 2023
 
 
 ![3D View](Generated/A540R260_4MB_3D_View.PNG)
@@ -8,7 +8,7 @@ March 2023
 This is my implementation of a 4MB RAM card for Acorn A540 / R260 machines.  It follows Acorn's design as per the schematic in the A540/R260 TRM, but replaces the RAMs with 16bit parts.
 It's a four-layer design, using a split power plane for separated RAM VCC.
 
-First 6 samples have been manufactured and stress tested for 12 hours no issues.
+Sixteen cards have been built so far and decently stress tested for "many days" in at least 8 different machines, with no issues found.
 
 ## Licence
 
